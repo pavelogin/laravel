@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Http;
 class TelegramBotApi
 {
 
-    public const HOST = 'https://api.telegram.org/bot333';
+    public const HOST = 'https://api.telegram.org/TestR4416515Bot';
 
     /**
      * @throws TelegramBotApiException
